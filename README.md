@@ -78,6 +78,3 @@ Here are the column description:
 - DEF: Players' defensive ability
 - PHY: Players' physicality/strength
 - Hits: Number of viewers on the players' website
-
-'SM', 'A/W', 'D/W', 'IR', 'PAC', 'SHO', 'PAS',
-       'DRI', 'DEF', 'PHY', 'Hits',

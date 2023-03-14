@@ -1,0 +1,83 @@
+# FIFA2021
+- Got this dataset from #DataCleaningChallenge
+
+The file consists of 18979 rows × 77 columns.
+Here are the column description:
+- ID: Players' unique identity number
+- Name: Players' name
+- LongName: Players' full name
+- photoUrl: link to the picture of the player's picture
+- Nationality: Players' country of origin
+- Age: Players' age
+- OVA: Players' overall analysis (rate in percentage)
+- POT: Players' potential in percentage
+- Club: Players' current club
+- Contract: Players contract length
+- Positions: Position the player has ever played
+- Height: Players' height
+- Weight: Players' weight
+- Preferred foot: Player's strong foot
+- BOV (Best Overall): Ability of player to hold comfortable to his feet by percentage rating
+- Best Position
+- Joined: Date at which players started National Team
+- Loan Date End
+- Value: Players' worth (in Euros)
+- Wage: Weekly salary (in Euros)
+- Release Clause: Amount in players' contract required for the player to leave to another club (in Euros)
+- Attacking: Players' attacking attributes
+- Crossing: Players' crossing attributes
+- Finishing: Players' finishing attributes
+- Heading Accuracy
+- Short Passing
+- Volleys
+- Skill
+- Dribbling
+- Curve
+- FK Accuracy: Free kick accuracy
+- Long Passing
+- Ball Control
+- Movement
+- Acceleration
+- Sprint Speed
+- Agility
+- Reactions
+- Balance
+- Power
+- Shot Power
+- Jumping
+- Strength
+- Long Shots
+- Mentality
+- Aggression
+- Interceptions
+- Positioning
+- Vision
+- Penalties
+- Composure
+- Defending
+- Marking
+- Standing Tackle
+- Sliding Tackle: 
+- Goalkeeping (GK): Players' goalkeeping attributes
+- GK Diving: Goalkeeping diving attribute
+- GK Handling: Goalkeeping handling attribute
+- GK Kicking: Goalkeeping kicking attribute
+- GK Positioning: Goalkeeping positioning attribute
+- GK Reflexes: Goalkeeping ability to react and save quickly
+- Total Stats: Overall rating of the players based on their performances in all areas of the game
+- Base Stats: Players' rating in 6 main areas of game (PAC, SHO, PAS, DRI, DEF, PHY)
+- W/F: Players' weak foot rating (how weel a player can use their undominant foot to pass, shoot, or dribble) (on a scale of 1 to 5)
+- SM: Skill moves rating
+- A/W: Attacking work moves
+- D/W: Defensive work rate
+- IR: Injury Rating (on a scale of 0 to 5)
+- PAC: Pace
+- SHO: Shooting attribute
+- PAS: Pass accuracy (given on a 100 rating)
+- DRI: Players' dribbling ability
+- DEF: Players' defensive ability
+- PHY: Players' physicality/strength
+- Hits: Number of viewers on the players' website
+
+'SM', 'A/W', 'D/W', 'IR', 'PAC', 'SHO', 'PAS',
+       'DRI', 'DEF', 'PHY', 'Hits',
